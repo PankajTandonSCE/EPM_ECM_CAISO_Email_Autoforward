@@ -1,0 +1,7 @@
+Hi {0},
+
+Please see the CAISO notice for Contract Id: {1}  Counter Party: {2} below.
+
+Thanks,
+Nathan
+
